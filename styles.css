@@ -8,7 +8,9 @@ header {
 nav {
   background-color: black;
   padding: 10px;
+  color: white;   /* 🔥 THIS LINE FIXES THE TEST */
 }
+
 
 nav ul {
   list-style-type: none;
